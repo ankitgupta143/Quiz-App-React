@@ -1,20 +1,9 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  
     QuizApp
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
-  </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
-  </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
-  </a>
-</p>
 
 <p align="center">
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
@@ -33,8 +22,8 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
-cd quiz-app
+git clone https://github.com/ankitgupta143/Quiz-App-React.git
+cd Quiz-App-React
 ```
 
 Install dependencies:
@@ -64,8 +53,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Ankit Gupta](https://github.com/ankitgupta143).
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](https://github.com/ankitgupta143/Quiz-App-React/blob/master/LICENSE).
